@@ -1,4 +1,4 @@
-# HEADER
+# My Portfolio
 
 ## About me
 
@@ -9,7 +9,8 @@ Hi, I'm Keren Chen, transitioning into a Business Analyst role with a background
 ### Project 1: Case Study: Bellabeat
 
 Analysis on Bellabeat to make suggestions on marketing strategy.
+[https://www.kaggle.com/code/simoniarthur/case-study-bellabeat/notebook]
 
 ## Contact
 
-Reaching out to me with cjmh1996yahoo@gmail.com
+Reaching out to me at [cjmh1996yahoo@gmail.com]
