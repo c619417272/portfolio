@@ -13,4 +13,4 @@ Analysis on Bellabeat to make suggestions on marketing strategy.
 
 ## Contact
 
-Reaching out to me at [cjmh1996yahoo@gmail.com]
+Reaching out to me at [cjmh1996yahoo@gmail.com](cjmh1996yahoo@gmail.com)
